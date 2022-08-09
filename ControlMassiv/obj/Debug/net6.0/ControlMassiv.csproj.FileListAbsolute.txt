@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\bin\Debug\net6.0\ControlMassiv.exe
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\bin\Debug\net6.0\ControlMassiv.deps.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\bin\Debug\net6.0\ControlMassiv.runtimeconfig.json
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\bin\Debug\net6.0\ControlMassiv.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\bin\Debug\net6.0\ControlMassiv.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\refint\ControlMassiv.dll
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.pdb
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ControlMassiv.genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с языками программирования С#\C#\ControlWork\ControlMassiv\obj\Debug\net6.0\ref\ControlMassiv.dll
